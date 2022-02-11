@@ -1,0 +1,18 @@
+.container{
+    width: 100%;
+    border: 1px solid red;
+    display: flex;
+}
+.container2{
+    margin: 30px;
+}
+.start,.puase{
+    margin: 5px;
+    padding: 10px 50px;
+    text-align: center;
+    background-color: rgb(136, 136, 202);
+    color: white;
+}
+.text{
+    font-size: 30px;
+}
